@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Akatsuki's Home Page
+## ようこそ、枯野アカツキのホームページへ。
 
-You can use the [editor on GitHub](https://github.com/FREEHEAVEN-PAIN/PAIN/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+| 動画 | 百度 | 文字 |
+| :-: | :-: | :--: |
+| [ビリビリ動画](https://www.bilibili.com/) | [搜尋](https://www.baidu.com/) | [洛谷](https://www.luogu.com.cn/) |
+| [AGE動画](https://www.agefans.cc/) | [翻譯](https://translate.baidu.com/) | [Github](https://github.com/) |
+| [KYIKAN動画](https://v.kyikan.com/index.php?m=vod-search) |    [地圖](https://map.baidu.com/)    |   [亂碼恢復](http://www.mytju.com/classcode/tools/messycoderecover.asp/)   |
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 传送门
+[究极咸鱼党 \| 鰝蠌蔕蔮](https://kmyoamoa.github.io/usfparty/)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FREEHEAVEN-PAIN/PAIN/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[自由天堂网络共和国](https://kmyoamoa.github.io/NRFP)
